@@ -1,0 +1,28 @@
+_repo: Geology_35317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Geikie, James
+    alias: Geikie, J. (James)
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '37594'
+    url: http://www.gutenberg.org/2009/agents/37594
+    wikipedia: http://en.wikipedia.org/wiki/James_Geikie
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Geology'
+title: Geology
+url: http://www.gutenberg.org/ebooks/35317
